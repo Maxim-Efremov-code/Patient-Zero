@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Patient Zero-0.1.0";
 const contentToCache = [
-    "Build/8483cba6a5b80ce38e722f3454ebe6e7.loader.js",
+    "Build/a2ff6054f1112dffe88c263b78fe8709.loader.js",
     "Build/ae0a56a7db938492edbcba0936e0fd92.framework.js.unityweb",
-    "Build/e0680fa052a07a51050aa007c70e23f1.data.unityweb",
-    "Build/6ce1b2bae1de00c26ece082c8bbf0761.wasm.unityweb",
+    "Build/a6de94b09128e6c939374ffbb342dd72.data.unityweb",
+    "Build/943ce408b46584ade458993a63e803a3.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
